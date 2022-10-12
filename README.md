@@ -1,3 +1,25 @@
+<!-- 
+  # Heading 1
+  ## Heading 2
+  ### Heading 3
+  #### Heading 4
+  ##### Heading 5
+  ###### Heading 6
+  
+  This text is **Bold** and *italic*
+  
+  [Eddie Jaoude](http://eddiejaoude.io) - Link
+  
+  [Link in page](#heading-1)
+  [Another link in page](#heading-3)
+  
+  ![My GitHub Profile image](https://github.com/eddiejaoude.png)
+-->
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Ramakrishna Chhipa</h1>
 <h3 align="center">A passionate frontend developer from India and a Machine Learning Enthusiast</h3>
 
