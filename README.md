@@ -21,7 +21,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ramakrishna Chhipa</h1>
-<h3 align="center">A passionate Developer and Data Scientist from India</h3>
+<h3 align="center">A passionate AI Engineer from India</h3>
 
 
 <p align="left"> <a href="https://twitter.com/ramakrishnachh4" target="blank"><img src="https://img.shields.io/twitter/follow/ramakrishnachh4?logo=twitter&style=for-the-badge" alt="ramakrishnachh4" /></a> </p>
